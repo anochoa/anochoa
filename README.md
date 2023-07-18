@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64b6d746f24f2540481180f0?variant=dark)](https://roadmap.sh)
+
 
 <!--
 **anochoa/anochoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
