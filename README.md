@@ -178,6 +178,14 @@
 
 ###
 
+<p align="left">---</p>
+
+###
+
+<h2 align="left">🎸🎙️🎤 Sing a song, it won't be long, before we're casting off</h2>
+
+###
+
 <div align="center">
   <a href="https://open.spotify.com/user/12153258884">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=12153258884&count=10&unique=true" alt="Spotify recently played"  />
